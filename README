@@ -1,0 +1,4 @@
+Turns an Android phone into a sound logger and writes the RMS and max to firebase.
+
+Plotting of the results with Python.
+
